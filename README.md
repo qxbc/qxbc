@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qxbc.
 - 👀 I’m interested in Front-end web development.
-- 🌱 I’m currently learning bem-technology, js, ts, html, css, react, next, node, python, vite, vue.
+- 🌱 I’m currently learning bem-technology, js, ts, html, css, react, next, node, python, vite, vue, methods get&post.
 - 📫 How to reach me <i>qxbc@duck.com</i>.
 
 <!---
