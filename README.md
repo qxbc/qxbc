@@ -1,5 +1,5 @@
 <h1 align="center">hello, im mikhail</h1>
-<h3 align="center">junior frontend developer</h3>
+<h3 align="center">frontend developer</h3>
 
 - Currently working on **Endowment fund of Kursk State Agrarian University**
 
